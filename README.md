@@ -1,5 +1,6 @@
 ![Let's Chat Greylock](https://codefresh.io/wp-content/uploads/2017/03/lets-chat.png)
 
+This is just a quick test
 
 Use this tutorial to familiarize yourself with codefresh.yml file and Codefresh functionality.
 
